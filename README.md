@@ -104,13 +104,4 @@ Leetcode-Helper/
 - User authentication and saved guidance history
 
 ### Contributing
-Contributions are welcome! Please open an issue or submit a pull request with a clear description of your changes.
-
----
-
-## 👥 Contributors
-
-- [jydv402 (Jayadev B S)](https://github.com/jydv402)
-- [SHIBINSHA02 (Shibinsha)](https://github.com/SHIBINSHA02)
-
----
+Contributions are welcome! Please open an issue or submit a pull request with a clear description of your changes
