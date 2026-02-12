@@ -8,9 +8,7 @@ LeetCode Helper is a Chrome Extension designed to supercharge your LeetCode prob
 
 - **Auto-Detects LeetCode Problems:** Instantly grabs the title and URL of the LeetCode problem you're viewing.
 - **AI-Powered Guidance:** Sends problem details to a deployed Django REST API, which uses an LLM (Gemini or OpenAI) to generate step-by-step solutions.
-- **Clean UI:** Displays AI responses in Markdown, rendered beautifully in the extension popup using [marked.min.js](https://marked.js.org/).
-- **No Local Setup Needed:** Backend is fully managed and deployed on [Render.com](https://render.com).
-
+- **Clean UI:** Displays AI responses in Markdown, rendered beautifully in the extension popup using [marked.min.js](https://marked.js.org/)
 ---
 
 ## 🚀 Project Overview
