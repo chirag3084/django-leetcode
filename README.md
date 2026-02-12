@@ -103,5 +103,4 @@ Leetcode-Helper/
 - Enhanced error handling and retry logic
 - User authentication and saved guidance history
 
-### Contributing
-Contributions are welcome! Please open an issue or submit a pull request with a clear description of your changes
+
